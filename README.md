@@ -57,8 +57,11 @@ POST /shorten
 Request Body:
 
 {
+
   
   "originalUrl": "https://example.com"
+  
+
 
 }
 
