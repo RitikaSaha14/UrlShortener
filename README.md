@@ -113,11 +113,16 @@ Mongoose – ODM for schema modeling
 NanoID / ShortID – Unique short code generation
 🔑 Core Features
 🔗 Generate short URLs from long links
+
 ⚡ Fast redirection using optimized lookup
+
 🧠 Unique ID generation (collision-free logic)
+
 📦 RESTful API architecture
+
 🗄️ Persistent storage with MongoDB
-🧠 Concepts Demonstrated (Important for Infosys SP/DSE)
+
+
 1. Hashing & Unique ID Generation
 Used short codes (Base62/NanoID approach)
 Ensures uniqueness and avoids collisions
@@ -165,16 +170,25 @@ node server.js
 
 #Future Enhancements (Good Talking Points in Interview)
 📊 Click analytics (track visits)
+
 ⏳ Expiry-based URLs
+
 🔐 Authentication & user dashboard
+
 🌐 Custom branded URLs
+
 💡 Why This Project Matters (Interview Angle)
 
 # This project highlights:
-Strong problem-solving ability
-Understanding of real-world scalable systems
-Hands-on experience with backend technologies
-Ability to translate theory → working product
+
+* Strong problem-solving ability
+  
+* Understanding of real-world scalable systems
+  
+* Hands-on experience with backend technologies
+  
+* Ability to translate theory → working product
 
 🧾 Conclusion
+
 A practical implementation of a high-frequency system that reflects the kind of backend engineering and system design.
