@@ -80,10 +80,15 @@ npm install
 node server.js
 
 🌱 Future Enhancements (Good Talking Points in Interview)
+
 📊 Click analytics (track visits)
+
 ⏳ Expiry-based URLs
+
 🔐 Authentication & user dashboard
+
 🌐 Custom branded URLs
+
 💡 Why This Project Matters (Interview Angle)
 
 This project highlights:
