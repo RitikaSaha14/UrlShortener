@@ -26,8 +26,9 @@ NanoID / ShortID – Unique short code generation
 
 1. Hashing & Unique ID Generation
 
-*Used short codes (Base62/NanoID approach)
-*Ensures uniqueness and avoids collisions
+* Used short codes (Base62/NanoID approach)
+  
+* Ensures uniqueness and avoids collisions
 
 2. Database Design
 
