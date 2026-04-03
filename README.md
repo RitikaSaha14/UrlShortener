@@ -13,14 +13,22 @@ NanoID / ShortID – Unique short code generation
 
 # Core Features
 🔗 Generate short URLs from long links
+
 ⚡ Fast redirection using optimized lookup
+
 🧠 Unique ID generation (collision-free logic)
+
 📦 RESTful API architecture
+
 🗄️ Persistent storage with MongoDB
+
 🧠 Concepts Demonstrated (Important for Infosys SP/DSE)
+
 1. Hashing & Unique ID Generation
-Used short codes (Base62/NanoID approach)
-Ensures uniqueness and avoids collisions
+
+*Used short codes (Base62/NanoID approach)
+*Ensures uniqueness and avoids collisions
+
 2. Database Design
 
 # Key-value mapping:
@@ -35,6 +43,7 @@ Clean separation of:
 Routes
 Controllers
 Models
+
 5. System Design Thinking
 Designed similar to real-world systems like
 Bitly
@@ -47,11 +56,15 @@ POST /shorten
 Request Body:
 
 {
+  
   "originalUrl": "https://example.com"
+
 }
 
 ➤ Redirect to Original URL
+
 GET /:shortCode
+
 ▶️ How to Run Locally
 # Clone repo
 git clone https://github.com/RitikaSaha14/Urlshortener.git
