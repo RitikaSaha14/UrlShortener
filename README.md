@@ -53,7 +53,7 @@ Request Body:
 GET /:shortCode
 ▶️ How to Run Locally
 # Clone repo
-git clone https://github.com/yourusername/url-shortener.git
+git clone https://github.com/RitikaSaha14/Urlshortener.git
 
 # Go to project folder
 cd url-shortener
