@@ -40,6 +40,7 @@ Designed similar to real-world systems like
 Bitly
 TinyURL
 📡 API Endpoints
+
 ➤ Create Short URL
 POST /shorten
 
@@ -63,6 +64,7 @@ npm install
 
 # Start server
 node server.js
+
 🌱 Future Enhancements (Good Talking Points in Interview)
 📊 Click analytics (track visits)
 ⏳ Expiry-based URLs
