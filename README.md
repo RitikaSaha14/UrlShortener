@@ -1,7 +1,7 @@
 # URL Shortener – Backend System
 
 # Overview
-This project is a scalable URL Shortener Backend System designed to demonstrate strong fundamentals in Data Structures, Backend Development, and System Design—key areas evaluated in Infosys SP/DSE roles.
+This project is a scalable URL Shortener Backend System designed to demonstrate strong fundamentals in Data Structures, Backend Development, and System Design.
 It converts long URLs into short, unique links and efficiently redirects users while maintaining performance and reliability.
 
 # Tech Stack
